@@ -1,0 +1,17 @@
+[/]
+active-screen-edges=true
+enable-autotiling=false
+enable-move-keybindings=false
+enable-snap-assist=true
+enable-span-multiple-tiles=false
+enable-tiling-system=false
+enable-tiling-system-windows-suggestions=false
+enable-window-border=false
+enable-wraparound-focus=false
+outer-gaps=uint32 15
+override-window-menu=false
+quarter-tiling-threshold=uint32 25
+resize-complementing-windows=false
+selected-layouts=[['276900'], ['276900'], ['276900']]
+show-indicator=false
+top-edge-maximize=true
